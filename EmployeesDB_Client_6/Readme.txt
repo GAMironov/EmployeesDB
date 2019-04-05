@@ -1,1 +1,1 @@
-Файл Server_connection_path.txt должен лежать в папке с .exe файлом.
+Server_connection_path.txt should be in the folder .exe file.
